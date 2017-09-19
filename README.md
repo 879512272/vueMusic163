@@ -1,6 +1,6 @@
 # my-project
-
-> A Vue.js project
+vue项目</br>
+按照pc端网易云音乐布局，初次练手导致rem和px混用</br>使用vuex和vue router
 
 ## Build Setup
 
